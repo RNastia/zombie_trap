@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 3</name>
+    <events>
+        <event-block sid="548273030861959">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="822448942233280" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">12780x2</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="150095129616577" type="System">
+                    <param id="0" name="Layout">Menu</param>
+                </action>
+                <action id="0" name="Play" sid="940500997117813" type="Audio">
+                    <param id="0" name="Audio file">moschnyiy-udar-po-vozduhu</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">0</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="307959207417154">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="140012991315526" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">12780x</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="1" name="Close" sid="474465929458976" type="Browser" />
+            </actions>
+        </event-block>
+        <event-block sid="996811233492534">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="991636568364599" type="System" />
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="103742217799559" type="Audio">
+                    <param id="0" name="Audio file">a08498023e98ca8-_1_</param>
+                    <param id="2" name="Loop">1</param>
+                    <param id="3" name="Volume">-7</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
