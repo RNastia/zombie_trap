@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="0">Menu</layout>
+        <layout active="1" order="2">Layout 1</layout>
+        <layout order="4">End</layout>
+        <event-sheet order="1">Event sheet 2</event-sheet>
+        <event-sheet order="3">Event sheet 1</event-sheet>
+        <event-sheet order="5">Event sheet 3</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="0" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/Ground/" />
+        <folder expanded="1" path="animation-folder/Ground2/" />
+        <folder expanded="1" path="animation-folder/Ground3/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/Player/" />
+        <folder expanded="1" path="animation-folder/Player/Gun/" />
+        <folder expanded="1" path="animation-folder/Player/Rifle/" />
+        <folder expanded="1" path="animation-folder/Player/Knife/" />
+        <folder expanded="1" path="animation-folder/Bullet/" />
+        <folder expanded="1" path="animation-folder/Aim/" />
+        <folder expanded="1" path="animation-folder/Wall/" />
+        <folder expanded="1" path="animation-folder/Sprite3/" />
+        <folder expanded="1" path="animation-folder/vzriv/" />
+        <folder expanded="1" path="animation-folder/polcrovi/" />
+        <folder expanded="1" path="animation-folder/pol7/" />
+        <folder expanded="1" path="animation-folder/Ground4/" />
+        <folder expanded="1" path="animation-folder/blood/" />
+        <folder expanded="1" path="animation-folder/Box/" />
+        <folder expanded="1" path="animation-folder/Box2/" />
+        <folder expanded="1" path="animation-folder/Radiation/" />
+        <folder expanded="1" path="animation-folder/paper/" />
+        <folder expanded="1" path="animation-folder/pistolet/" />
+        <folder expanded="1" path="animation-folder/pol1/" />
+        <folder expanded="1" path="animation-folder/e2ff2d0c3d10785e6e50d883ce8f81c/" />
+        <folder expanded="1" path="animation-folder/umer/" />
+        <folder expanded="1" path="animation-folder/pol4/" />
+        <folder expanded="1" path="animation-folder/tablesits/" />
+        <folder expanded="1" path="animation-folder/Zombie/" />
+        <folder expanded="1" path="animation-folder/Boxdestroy/" />
+        <folder expanded="1" path="animation-folder/Zombie2/" />
+        <folder expanded="1" path="animation-folder/daKorocephoto3/" />
+        <folder expanded="1" path="animation-folder/daKorocephoto4/" />
+        <folder expanded="1" path="animation-folder/pol3/" />
+        <folder expanded="1" path="animation-folder/Page/" />
+        <folder expanded="1" path="animation-folder/daKorocephoto6/" />
+        <folder expanded="1" path="animation-folder/pol6/" />
+        <folder expanded="1" path="animation-folder/pol5/" />
+        <folder expanded="1" path="animation-folder/daKorocephoto9/" />
+        <folder expanded="1" path="animation-folder/pol2/" />
+        <folder expanded="1" path="animation-folder/cravati/" />
+        <folder expanded="1" path="animation-folder/stul/" />
+        <folder expanded="1" path="animation-folder/depositphotos_161412732stockillustrationinterioriconstopviewtree3/" />
+        <folder expanded="1" path="animation-folder/divan/" />
+        <folder expanded="1" path="animation-folder/schaf/" />
+        <folder expanded="1" path="animation-folder/Vnimanie_Opasnost_prochie_opasnosti_Abaliru_/" />
+        <folder expanded="1" path="animation-folder/aptecica/" />
+        <folder expanded="1" path="animation-folder/Sprite10/" />
+        <folder expanded="1" path="animation-folder/toSaMoe/" />
+        <folder expanded="1" path="animation-folder/exit/" />
+        <folder expanded="1" path="animation-folder/12780x/" />
+        <folder expanded="1" path="animation-folder/Sprite11/" />
+        <folder expanded="1" path="animation-folder/d900013841773e261818f317f5a011741a996ceb_2_690x/" />
+        <folder expanded="1" path="animation-folder/Table/" />
+        <folder expanded="1" path="animation-folder/1679356038_bogatyrclubptemnoederevofonipinterest/" />
+        <folder expanded="1" path="animation-folder/12780x2/" />
+        <folder expanded="1" path="animation-folder/Ground5/" />
+        <folder expanded="1" path="animation-folder/Untitled/" />
+        <folder expanded="1" path="animation-folder/depositphotos_161412732stockillustrationinterioriconstopviewtree4/" />
+        <folder expanded="1" path="animation-folder/12780x3/" />
+        <folder expanded="1" path="animation-folder/12780x4/" />
+        <folder expanded="1" path="animation-folder/aim_2/" />
+        <folder expanded="1" path="animation-folder/aim_1/" />
+        <folder expanded="1" path="animation-folder/aim_3/" />
+        <folder expanded="1" path="animation-folder/AIMNOW/" />
+        <folder expanded="1" path="animation-folder/AIMNOW2/" />
+        <folder expanded="1" path="animation-folder/AIMNOW3/" />
+        <folder expanded="1" path="animation-folder/AIMNOW4/" />
+        <folder expanded="1" path="animation-folder/aim2/" />
+        <folder expanded="1" path="animation-folder/toCitoNado/" />
+        <folder expanded="1" path="animation-folder/pisimo2/" />
+        <folder expanded="1" path="animation-folder/aimmmmm2/" />
+        <folder expanded="1" path="animation-folder/e/" />
+        <folder expanded="1" path="animation-folder/Sprite4/" />
+        <folder expanded="1" path="animation-folder/e2/" />
+        <folder expanded="1" path="animation-folder/e3/" />
+        <folder expanded="1" path="animation-folder/pisimo1/" />
+        <folder expanded="1" path="animation-folder/boxic/" />
+        <folder expanded="1" path="animation-folder/e4/" />
+        <folder expanded="1" path="animation-folder/pisimo3/" />
+    </folders-expanded>
+</c2uistate>

@@ -577,7 +577,7 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-15" name="Set visible" sid="726585856720669" type="pngtreeanimageshowingazombiezombiemonsterimage_">
+                        <action id="-15" name="Set visible" sid="726585856720669" type="pisimo2">
                             <param id="0" name="Visibility">1</param>
                         </action>
                         <action id="-15" name="Set visible" sid="293620387752553" type="e">
@@ -596,7 +596,7 @@
                 </condition>
             </conditions>
             <actions>
-                <action id="-15" name="Set visible" sid="757486955965717" type="pngtreeanimageshowingazombiezombiemonsterimage_">
+                <action id="-15" name="Set visible" sid="757486955965717" type="pisimo2">
                     <param id="0" name="Visibility">0</param>
                 </action>
                 <action id="-15" name="Set visible" sid="236243696585961" type="e">
@@ -753,7 +753,7 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-15" name="Set visible" sid="824702082690001" type="eeeeeeto">
+                        <action id="-15" name="Set visible" sid="824702082690001" type="pisimo1">
                             <param id="0" name="Visibility">1</param>
                         </action>
                         <action id="-15" name="Set visible" sid="769031849345469" type="e3">
@@ -772,7 +772,7 @@
                 </condition>
             </conditions>
             <actions>
-                <action id="-15" name="Set visible" sid="322950739946807" type="eeeeeeto">
+                <action id="-15" name="Set visible" sid="322950739946807" type="pisimo1">
                     <param id="0" name="Visibility">0</param>
                 </action>
                 <action id="-15" name="Set visible" sid="884312470937943" type="e3">
@@ -801,7 +801,7 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-15" name="Set visible" sid="373448522918459" type="9y">
+                        <action id="-15" name="Set visible" sid="373448522918459" type="pisimo3">
                             <param id="0" name="Visibility">1</param>
                         </action>
                         <action id="-15" name="Set visible" sid="663119593465515" type="e4">
@@ -820,21 +820,13 @@
                 </condition>
             </conditions>
             <actions>
-                <action id="-15" name="Set visible" sid="403094088433344" type="9y">
+                <action id="-15" name="Set visible" sid="403094088433344" type="pisimo3">
                     <param id="0" name="Visibility">0</param>
                 </action>
                 <action id="-15" name="Set visible" sid="327873016080573" type="e4">
                     <param id="0" name="Visibility">0</param>
                 </action>
             </actions>
-        </event-block>
-        <event-block sid="505673559324531">
-            <conditions>
-                <condition id="0" name="On key pressed" sid="489159626037482" type="Keyboard">
-                    <param id="0" name="Key">51</param>
-                </condition>
-            </conditions>
-            <actions />
         </event-block>
     </events>
 </c2eventsheet>
